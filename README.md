@@ -1,4 +1,4 @@
-# AchieGameDev - Ko-Fi article Cctalogue
+# AchieGameDev - Ko-Fi article catalogue
 A catalogue of all my articles on from my Ko-fi Page!
 
 # PicoShorts
