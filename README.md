@@ -25,4 +25,4 @@ A Devlog series about my Löve Shmup entry for the Devtober2022 jam.
 # Caffeine Reviews
 Generic game or other media reviews outside of my ususal fantasy console sphere!
 
-- [Caffeine Reviews - Blood Ticket] ✨
+- [Caffeine Reviews - Blood Ticket](https://ko-fi.com/post/Caffeine-Reviews--Blood-Ticket-R6R8FW6HR) ✨
