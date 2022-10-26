@@ -19,7 +19,8 @@ A Devlog series about my Löve Shmup entry for the Devtober2022 jam.
 - [Devtober2022 #4 - We got to have glitch effects!](https://ko-fi.com/Post/Eng-Devtober2022-4--We-got-to-have-glitch-effe-S6S1FM1IC)
 - [Devtober2022 #5 - Pew Pew](https://ko-fi.com/Post/Eng-Devtober2022-5--Pew-Pew-L4L1FMRQL)
 - [Devtober2022 #6 - Movement and Elites](https://ko-fi.com/Post/Devtober2022-6--Movement-and-Elites-K3K1FUUGD) 
-- [Devtober2022 #7 - Gameplay Loop, Death Screen, Statistics](https://ko-fi.com/post/Devtober2022-7--Gameplay-Loop-Death-Screen-Sta-A0A2FVJ4A)✨
+- [Devtober2022 #7 - Gameplay Loop, Death Screen, Statistics](https://ko-fi.com/post/Devtober2022-7--Gameplay-Loop-Death-Screen-Sta-A0A2FVJ4A)
+- [Devtober2022 #8 - Freezing and the Director returns!](https://ko-fi.com/Post/Devtober2022-8--Freezing-and-the-Director-return-H2H5FXS8P)✨
 
 
 # Caffeine Reviews
