@@ -10,6 +10,10 @@ A little bite sized review series about cool PICO-8 games I stumbled upon.
 - [PicoShorts #4 - Thunder Bella, Lil' Satans Cake Quest](https://ko-fi.com/post/Eng-PicoShorts-4--Thunder-Bella-Lil-Satans-C-V7V2D7QTW)
 - [PicoShorts #5 - Shoot Em' Doot Em', SURP, Shotgun Night](https://ko-fi.com/Post/Eng-PicoShorts-5--Shotgun-Night-Shoot-Em-Doo-T6T1FTUL8) ✨
 
+# A Game By It's Cover 2022
+
+- [A Game By It's Cover #1 - Occult nostalgia meets an old project](https://ko-fi.com/post/A-Game-By-Its-Cover-1--Occult-nostalgia-meets-a-C0C3FZFLM) ✨
+
 # Devtober2022
 A Devlog series about my Löve Shmup entry for the Devtober2022 jam.
 
