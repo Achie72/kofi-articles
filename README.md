@@ -13,7 +13,11 @@ A little bite sized review series about cool PICO-8 games I stumbled upon.
 # A Game By It's Cover 2022
 
 - [A Game By It's Cover #1 - Occult nostalgia meets an old project](https://ko-fi.com/post/A-Game-By-Its-Cover-1--Occult-nostalgia-meets-a-C0C3FZFLM)
-- [A Game By It's Cover #2 - Couch Co-op, Combat Mockup and Rendering](https://ko-fi.com/post/A-Game-By-Its-Cover-2--Couch-Co-op-Combat-Mock-E1E8G6HWY)✨
+- [A Game By It's Cover #2 - Couch Co-op, Combat Mockup and Rendering](https://ko-fi.com/post/A-Game-By-Its-Cover-2--Couch-Co-op-Combat-Mock-E1E8G6HWY)
+
+# 20 Second Game Jam 2022
+
+- [Lina: A Fishy Quest Released](https://ko-fi.com/post/Lina-A-Fishy-Quest-is-out--20-second-game-jam-O5O1G84J9) ✨
 
 # Devtober2022
 A Devlog series about my Löve Shmup entry for the Devtober2022 jam. [Link to the game!](https://achie.itch.io/rogala)
