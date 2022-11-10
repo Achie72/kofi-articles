@@ -15,6 +15,12 @@ A little bite sized review series about cool PICO-8 games I stumbled upon.
 - [A Game By It's Cover #1 - Occult nostalgia meets an old project](https://ko-fi.com/post/A-Game-By-Its-Cover-1--Occult-nostalgia-meets-a-C0C3FZFLM)
 - [A Game By It's Cover #2 - Couch Co-op, Combat Mockup and Rendering](https://ko-fi.com/post/A-Game-By-Its-Cover-2--Couch-Co-op-Combat-Mock-E1E8G6HWY)
 
+# Retro PICO-8 platformer
+
+- [#1 - Health Update and Actual Gamedev?](https://ko-fi.com/post/Health-Update-and-Actual-Gamedev-J3J7D7369)
+- [#2 - More Gamedev - Retro Camera, Abilites](https://ko-fi.com/post/More-Gamedev--Retro-Camera-Abilites-C0C1DCSJD)
+- [#3 - Making Abilities Look Better](https://ko-fi.com/post/ENGHUN-Unnamed-Project--Making-Abilites-Look-B-X8X2DH3X2)
+
 # 20 Second Game Jam 2022
 
 - [Lina: A Fishy Quest Released](https://ko-fi.com/post/Lina-A-Fishy-Quest-is-out--20-second-game-jam-O5O1G84J9) ✨
