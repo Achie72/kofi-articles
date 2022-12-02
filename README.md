@@ -14,7 +14,7 @@ A little bite sized review series about cool PICO-8 games I stumbled upon.
 
 - [A Game By It's Cover #1 - Occult nostalgia meets an old project](https://ko-fi.com/post/A-Game-By-Its-Cover-1--Occult-nostalgia-meets-a-C0C3FZFLM)
 - [A Game By It's Cover #2 - Couch Co-op, Combat Mockup and Rendering](https://ko-fi.com/post/A-Game-By-Its-Cover-2--Couch-Co-op-Combat-Mock-E1E8G6HWY)
-- [A Game By It's Cover #3 - Combat POC, New Enemies, New Look](https://ko-fi.com/post/A-Game-By-Its-Cover-3--Combat-POC-New-Enemies-L3L4GF2I3)✨
+- [A Game By It's Cover #3 - Combat POC, New Enemies, New Look](https://ko-fi.com/post/A-Game-By-Its-Cover-3--Combat-POC-New-Enemies-L3L4GF2I3)
 
 # Retro PICO-8 platformer
 
@@ -26,7 +26,7 @@ A little bite sized review series about cool PICO-8 games I stumbled upon.
 Help Lina to catch the finest fishes for her hungry cat! [Link to the game!](https://achie.itch.io/lina-a-fishy-quest)
 - [Lina: A Fishy Quest Released](https://ko-fi.com/post/Lina-A-Fishy-Quest-is-out--20-second-game-jam-O5O1G84J9) 
 
-# Devtober2022
+# Devtober2022 Jam
 A Devlog series about my Löve Shmup entry for the Devtober2022 jam. [Link to the game!](https://achie.itch.io/rogala)
 
 - [Devtober2022 #1 - HacktoberFest, Devtober 2022 and a new game?](https://ko-fi.com/post/Eng-HacktoberFest-Devtober-2022-and-a-new-game-X8X8FJPDN)
@@ -38,7 +38,7 @@ A Devlog series about my Löve Shmup entry for the Devtober2022 jam. [Link to th
 - [Devtober2022 #7 - Gameplay Loop, Death Screen, Statistics](https://ko-fi.com/post/Devtober2022-7--Gameplay-Loop-Death-Screen-Sta-A0A2FVJ4A)
 - [Devtober2022 #8 - Freezing and the Director returns!](https://ko-fi.com/Post/Devtober2022-8--Freezing-and-the-Director-return-H2H5FXS8P)
 - [Devtober2022 #9 - Rogala is out! Catchup and Post-Mortem.](https://ko-fi.com/Post/Devtober-9--Rogala-is-out-Catchup-and-Post-Mort-K3K3G1LU9)
-
+- [Rogala #10 - Post jam feedbacks and further plans](https://ko-fi.com/post/Rogala-10--Recievment-and-further-plans-Q5Q8GRVMM)✨
 
 # Caffeine Reviews
 Generic game or other media reviews outside of my ususal fantasy console sphere!
