@@ -9,6 +9,7 @@ A little bite sized review series about cool PICO-8 games I stumbled upon.
 - [PicoShorts #3 - Archery Princess, Tower of Archeos](https://ko-fi.com/post/Eng-PicoShorts-3--Archery-Princess-I3I7AIEZA)
 - [PicoShorts #4 - Thunder Bella, Lil' Satans Cake Quest](https://ko-fi.com/post/Eng-PicoShorts-4--Thunder-Bella-Lil-Satans-C-V7V2D7QTW)
 - [PicoShorts #5 - Shoot Em' Doot Em', SURP, Shotgun Night](https://ko-fi.com/Post/Eng-PicoShorts-5--Shotgun-Night-Shoot-Em-Doo-T6T1FTUL8) 
+- [PicoShorts #6 - Attack of the 5-Foot Fish, Alien Invaders 2, Snowball Gaiden](https://ko-fi.com/post/PicoShorts-6--Attack-of-the-5-Foot-Fish-R6R7HAPH5)✨
 
 # A Game By It's Cover 2022
 
@@ -38,7 +39,7 @@ A Devlog series about my Löve Shmup entry for the Devtober2022 jam. [Link to th
 - [Devtober2022 #7 - Gameplay Loop, Death Screen, Statistics](https://ko-fi.com/post/Devtober2022-7--Gameplay-Loop-Death-Screen-Sta-A0A2FVJ4A)
 - [Devtober2022 #8 - Freezing and the Director returns!](https://ko-fi.com/Post/Devtober2022-8--Freezing-and-the-Director-return-H2H5FXS8P)
 - [Devtober2022 #9 - Rogala is out! Catchup and Post-Mortem.](https://ko-fi.com/Post/Devtober-9--Rogala-is-out-Catchup-and-Post-Mort-K3K3G1LU9)
-- [Rogala #10 - Post jam feedbacks and further plans](https://ko-fi.com/post/Rogala-10--Recievment-and-further-plans-Q5Q8GRVMM)✨
+- [Rogala #10 - Post jam feedbacks and further plans](https://ko-fi.com/post/Rogala-10--Recievment-and-further-plans-Q5Q8GRVMM)
 
 # Caffeine Reviews
 Generic game or other media reviews outside of my ususal fantasy console sphere!
