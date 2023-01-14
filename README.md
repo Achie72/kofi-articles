@@ -9,7 +9,8 @@ A little bite sized review series about cool PICO-8 games I stumbled upon.
 - [PicoShorts #3 - Archery Princess, Tower of Archeos](https://ko-fi.com/post/Eng-PicoShorts-3--Archery-Princess-I3I7AIEZA)
 - [PicoShorts #4 - Thunder Bella, Lil' Satans Cake Quest](https://ko-fi.com/post/Eng-PicoShorts-4--Thunder-Bella-Lil-Satans-C-V7V2D7QTW)
 - [PicoShorts #5 - Shoot Em' Doot Em', SURP, Shotgun Night](https://ko-fi.com/Post/Eng-PicoShorts-5--Shotgun-Night-Shoot-Em-Doo-T6T1FTUL8) 
-- [PicoShorts #6 - Attack of the 5-Foot Fish, Alien Invaders 2, Snowball Gaiden](https://ko-fi.com/post/PicoShorts-6--Attack-of-the-5-Foot-Fish-R6R7HAPH5)✨
+- [PicoShorts #6 - Attack of the 5-Foot Fish, Alien Invaders 2, Snowball Gaiden](https://ko-fi.com/post/PicoShorts-6--Attack-of-the-5-Foot-Fish-R6R7HAPH5)
+- [PicoShorts #7 - Astroapocalypse,I Just Wanna Land,Super Poulet Poulet](https://ko-fi.com/post/PicoShorts-7--AstroapocalypseI-Just-Wanna-Land-E1E8HUNUA)✨
 
 # A Game By It's Cover 2022
 
