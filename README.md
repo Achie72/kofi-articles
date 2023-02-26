@@ -10,9 +10,14 @@ A little bite sized review series about cool PICO-8 games I stumbled upon.
 - [PicoShorts #4 - Thunder Bella, Lil' Satans Cake Quest](https://ko-fi.com/post/Eng-PicoShorts-4--Thunder-Bella-Lil-Satans-C-V7V2D7QTW)
 - [PicoShorts #5 - Shoot Em' Doot Em', SURP, Shotgun Night](https://ko-fi.com/Post/Eng-PicoShorts-5--Shotgun-Night-Shoot-Em-Doo-T6T1FTUL8) 
 - [PicoShorts #6 - Attack of the 5-Foot Fish, Alien Invaders 2, Snowball Gaiden](https://ko-fi.com/post/PicoShorts-6--Attack-of-the-5-Foot-Fish-R6R7HAPH5)
-- [PicoShorts #7 - Astroapocalypse,I Just Wanna Land,Super Poulet Poulet](https://ko-fi.com/post/PicoShorts-7--AstroapocalypseI-Just-Wanna-Land-E1E8HUNUA)✨
+- [PicoShorts #7 - Astroapocalypse,I Just Wanna Land,Super Poulet Poulet](https://ko-fi.com/post/PicoShorts-7--AstroapocalypseI-Just-Wanna-Land-E1E8HUNUA)
 
-# A Game By It's Cover 2022
+
+# PICO-8 Colony Management Project
+
+- [Colony Management Project #1 - The first few days of a project](https://ko-fi.com/post/Colony-Management-Project-1--The-first-few-days-A0A5J2DFS)✨
+
+# [Occult Nostalgia](https://achie.itch.io/occult-nostalgia) - A Game By It's Cover 2022
 
 - [A Game By It's Cover #1 - Occult nostalgia meets an old project](https://ko-fi.com/post/A-Game-By-Its-Cover-1--Occult-nostalgia-meets-a-C0C3FZFLM)
 - [A Game By It's Cover #2 - Couch Co-op, Combat Mockup and Rendering](https://ko-fi.com/post/A-Game-By-Its-Cover-2--Couch-Co-op-Combat-Mock-E1E8G6HWY)
@@ -24,11 +29,11 @@ A little bite sized review series about cool PICO-8 games I stumbled upon.
 - [#2 - More Gamedev - Retro Camera, Abilites](https://ko-fi.com/post/More-Gamedev--Retro-Camera-Abilites-C0C1DCSJD)
 - [#3 - Making Abilities Look Better](https://ko-fi.com/post/ENGHUN-Unnamed-Project--Making-Abilites-Look-B-X8X2DH3X2)
 
-# 20 Second Game Jam 2022  
+# [Lina: A Fishy Quest](https://achie.itch.io/lina-a-fishy-quest) - 20 Second Game Jam 2022  
 Help Lina to catch the finest fishes for her hungry cat! [Link to the game!](https://achie.itch.io/lina-a-fishy-quest)
 - [Lina: A Fishy Quest Released](https://ko-fi.com/post/Lina-A-Fishy-Quest-is-out--20-second-game-jam-O5O1G84J9) 
 
-# Devtober2022 Jam
+# [Rogala](https://achie.itch.io/rogala) - Devtober2022 Jam
 A Devlog series about my Löve Shmup entry for the Devtober2022 jam. [Link to the game!](https://achie.itch.io/rogala)
 
 - [Devtober2022 #1 - HacktoberFest, Devtober 2022 and a new game?](https://ko-fi.com/post/Eng-HacktoberFest-Devtober-2022-and-a-new-game-X8X8FJPDN)
