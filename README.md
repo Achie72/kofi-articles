@@ -12,6 +12,10 @@ A little bite sized review series about cool PICO-8 games I stumbled upon.
 - [PicoShorts #6 - Attack of the 5-Foot Fish, Alien Invaders 2, Snowball Gaiden](https://ko-fi.com/post/PicoShorts-6--Attack-of-the-5-Foot-Fish-R6R7HAPH5)
 - [PicoShorts #7 - Astroapocalypse,I Just Wanna Land,Super Poulet Poulet](https://ko-fi.com/post/PicoShorts-7--AstroapocalypseI-Just-Wanna-Land-E1E8HUNUA)
 
+# Pico-View contributions
+A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twitter.com/MarinaMakes) and [Nerdy Teachers](https://twitter.com/NerdyTeachers)!
+
+- [Pico-View January 2023 - Little Eidolons](https://www.lexaloffle.com/bbs/?tid=51335) or on [NerdyTeacher's](https://nerdyteachers.com/PICO-8/Pico-View/?issue=1) website.
 
 # PICO-8 Colony Management Project
 
