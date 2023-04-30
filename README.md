@@ -18,6 +18,7 @@ A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twi
 
 - [Pico-View January 2023 - Little Eidolons](https://nerdyteachers.com/PICO-8/Pico-View/?issue=1)
 - [Pico-View March 2023 - Calico](https://nerdyteachers.com/PICO-8/Pico-View/?issue=3)
+- [Pico-View April 2023 - Tiny Farm](https://nerdyteachers.com/PICO-8/Pico-View/?issue=4#featuredReview)
 
 # PICO-8 Colony Management Project
 
