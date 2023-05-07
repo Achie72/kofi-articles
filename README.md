@@ -12,6 +12,7 @@ A little bite sized review series about cool PICO-8 games I stumbled upon.
 - [PicoShorts #6 - Attack of the 5-Foot Fish, Alien Invaders 2, Snowball Gaiden](https://ko-fi.com/post/PicoShorts-6--Attack-of-the-5-Foot-Fish-R6R7HAPH5)
 - [PicoShorts #7 - Astroapocalypse,I Just Wanna Land,Super Poulet Poulet](https://ko-fi.com/post/PicoShorts-7--AstroapocalypseI-Just-Wanna-Land-E1E8HUNUA)
 - [PicoShorts #8 - Bearrl, Charge!, P8C-BUN](https://ko-fi.com/post/PicoShorts-8--Bearrl-Charge-P8C-BUN-H2H8K6O60)
+- [PicoShorts #9 - Downward, Grow Dungeon, Neon Saucer, Slipways](https://ko-fi.com/post/PicoShorts-9--Downward-Grow-Dungeon-Neon-Sauce-O5O8L3CHW) ✨
 
 # Pico-View contributions
 A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twitter.com/MarinaMakes) and [Nerdy Teachers](https://twitter.com/NerdyTeachers)!
@@ -24,7 +25,7 @@ A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twi
 
 - [Colony Management Project #1 - The first few days of a project](https://ko-fi.com/post/Colony-Management-Project-1--The-first-few-days-A0A5J2DFS)
 - [Colony Management #2 - Pathfinding, QoL, Depleting Resources](https://ko-fi.com/post/Colony-Management-2--Pathfinding-QoL-Depleting-G2G1JT4TT)
-- [Colony Management #3 - Reworking the backend](https://ko-fi.com/post/Colony-Management-3--Reworking-the-backend-K3K8KNQU7) ✨
+- [Colony Management #3 - Reworking the backend](https://ko-fi.com/post/Colony-Management-3--Reworking-the-backend-K3K8KNQU7) 
 
 # [Occult Nostalgia](https://achie.itch.io/occult-nostalgia) - A Game By It's Cover 2022
 
