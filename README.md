@@ -12,7 +12,7 @@ A little bite sized review series about cool PICO-8 games I stumbled upon.
 - [PicoShorts #6 - Attack of the 5-Foot Fish, Alien Invaders 2, Snowball Gaiden](https://ko-fi.com/post/PicoShorts-6--Attack-of-the-5-Foot-Fish-R6R7HAPH5)
 - [PicoShorts #7 - Astroapocalypse,I Just Wanna Land,Super Poulet Poulet](https://ko-fi.com/post/PicoShorts-7--AstroapocalypseI-Just-Wanna-Land-E1E8HUNUA)
 - [PicoShorts #8 - Bearrl, Charge!, P8C-BUN](https://ko-fi.com/post/PicoShorts-8--Bearrl-Charge-P8C-BUN-H2H8K6O60)
-- [PicoShorts #9 - Downward, Grow Dungeon, Neon Saucer, Slipways](https://ko-fi.com/post/PicoShorts-9--Downward-Grow-Dungeon-Neon-Sauce-O5O8L3CHW) ✨
+- [PicoShorts #9 - Downward, Grow Dungeon, Neon Saucer, Slipways](https://ko-fi.com/post/PicoShorts-9--Downward-Grow-Dungeon-Neon-Sauce-O5O8L3CHW) 
 
 # Pico-View contributions
 A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twitter.com/MarinaMakes) and [Nerdy Teachers](https://twitter.com/NerdyTeachers)!
@@ -20,6 +20,7 @@ A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twi
 - [Pico-View January 2023 - Little Eidolons](https://nerdyteachers.com/PICO-8/Pico-View/?issue=1)
 - [Pico-View March 2023 - Calico](https://nerdyteachers.com/PICO-8/Pico-View/?issue=3)
 - [Pico-View April 2023 - Tiny Farm](https://nerdyteachers.com/PICO-8/Pico-View/?issue=4#featuredReview)
+- [Pico-View May 2023 - Air Delivery](https://nerdyteachers.com/PICO-8/Pico-View/?issue=5#featuredReview) ✨
 
 # PICO-8 Colony Management Project
 
