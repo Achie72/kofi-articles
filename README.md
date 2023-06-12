@@ -49,7 +49,7 @@ A platformer trying to invoke retro NES/SEGA era games.
 - [#2 - More Gamedev - Retro Camera, Abilites](https://ko-fi.com/post/More-Gamedev--Retro-Camera-Abilites-C0C1DCSJD)
 - [#3 - Making Abilities Look Better](https://ko-fi.com/post/ENGHUN-Unnamed-Project--Making-Abilites-Look-B-X8X2DH3X2)
 
-# MossyMonth 2023
+# MossyMonth 2023 - Creative Jam with theme: Forest!
 
 [Twitter Thread🧵](https://twitter.com/Achie7240/status/1668344676267487232)
 
