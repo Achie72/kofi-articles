@@ -54,6 +54,7 @@ A platformer trying to invoke retro NES/SEGA era games.
 [Twitter Thread🧵](https://twitter.com/Achie7240/status/1668344676267487232)
 
 - [#1 - The Beginning](https://ko-fi.com/post/MossyMonth-2023-1--The-Beginnings-C0C5M7HZ3)
+- [#2 - Movement Refactor, Vector Plates, Lilypads, Map](https://ko-fi.com/post/Mossy-Month-2--Movement-Refactor-Vector-Plates-E1E2MLT9O)
 
 # [Lina: A Fishy Quest](https://achie.itch.io/lina-a-fishy-quest) - 20 Second Game Jam 2022  
 Help Lina to catch the finest fishes for her hungry cat! [Link to the game!](https://achie.itch.io/lina-a-fishy-quest)
