@@ -22,7 +22,7 @@ A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twi
 - [Pico-View January 2023 - Little Eidolons](https://nerdyteachers.com/PICO-8/Pico-View/?issue=1)
 - [Pico-View March 2023 - Calico](https://nerdyteachers.com/PICO-8/Pico-View/?issue=3)
 - [Pico-View April 2023 - Tiny Farm](https://nerdyteachers.com/PICO-8/Pico-View/?issue=4#featuredReview)
-- [Pico-View May 2023 - Air Delivery](https://nerdyteachers.com/PICO-8/Pico-View/?issue=5#featuredReview) ✨
+- [Pico-View May 2023 - Air Delivery](https://nerdyteachers.com/PICO-8/Pico-View/?issue=5#featuredReview) 
 
 # PICO-8 Colony Management Project  
 A try at making a turn based colony management game inside PICO-8. WIP  
@@ -32,6 +32,12 @@ A try at making a turn based colony management game inside PICO-8. WIP
 - [Colony Management Project #1 - The first few days of a project](https://ko-fi.com/post/Colony-Management-Project-1--The-first-few-days-A0A5J2DFS)
 - [Colony Management #2 - Pathfinding, QoL, Depleting Resources](https://ko-fi.com/post/Colony-Management-2--Pathfinding-QoL-Depleting-G2G1JT4TT)
 - [Colony Management #3 - Reworking the backend](https://ko-fi.com/post/Colony-Management-3--Reworking-the-backend-K3K8KNQU7) 
+
+# [Kumatori Panic!] - A Game By It's Cover 2023  
+A sokoban/bejeweled combo game.  
+
+- [A Game By It's Cover #1 - Kumatori Panic! Proof-of-Concept done!](https://ko-fi.com/post/A-Game-By-Its-Cover-1--Kumatori-Panic-Proof-of-J3J6MST5M) ✨
+
 
 # [Occult Nostalgia](https://achie.itch.io/occult-nostalgia) - A Game By It's Cover 2022  
 A turn based dungeon crawler rpg with a creepy overtone. WIP  
