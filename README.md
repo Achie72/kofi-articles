@@ -36,7 +36,10 @@ A try at making a turn based colony management game inside PICO-8. WIP
 # [Kumatori Panic!] - A Game By It's Cover 2023  
 A sokoban/bejeweled combo game.  
 
-- [A Game By It's Cover #1 - Kumatori Panic! Proof-of-Concept done!](https://ko-fi.com/post/A-Game-By-Its-Cover-1--Kumatori-Panic-Proof-of-J3J6MST5M) ✨
+[Twitter Thread🧵](https://twitter.com/Achie7240/status/1675224388898021376)
+
+- [A Game By It's Cover #1 - Kumatori Panic! Proof-of-Concept done!](https://ko-fi.com/post/A-Game-By-Its-Cover-1--Kumatori-Panic-Proof-of-J3J6MST5M) 
+- [AGBIC - Kumatori Panic! Devlog #2 - Menu system, gameloop, difficulty](https://ko-fi.com/Post/AGBIC--Kumatori-Panic-Devlog-2--Menu-system-g-E1E5MTTV5) ✨
 
 
 # [Occult Nostalgia](https://achie.itch.io/occult-nostalgia) - A Game By It's Cover 2022  
