@@ -40,7 +40,8 @@ A sokoban/bejeweled combo game.
 
 - [A Game By It's Cover #1 - Kumatori Panic! Proof-of-Concept done!](https://ko-fi.com/post/A-Game-By-Its-Cover-1--Kumatori-Panic-Proof-of-J3J6MST5M) 
 - [Kumatori Panic! Devlog #2 - Menu system, gameloop, difficulty](https://ko-fi.com/Post/AGBIC--Kumatori-Panic-Devlog-2--Menu-system-g-E1E5MTTV5)
-- [Kumatori Panic! Devlog #3 - Move, Backend, Duplicate and Materialize](https://ko-fi.com/post/Kumatori-Panic-3--Move-Backend-Duplicate-and-M-A0A7MYEPA)✨
+- [Kumatori Panic! Devlog #3 - Move, Backend, Duplicate and Materialize](https://ko-fi.com/post/Kumatori-Panic-3--Move-Backend-Duplicate-and-M-A0A7MYEPA)
+- [Kumatori Panic #4 - Eggs, Better Movement, Lore Accuracy and mapgen!](https://ko-fi.com/post/Kumatori-Panic-4--Eggs-Better-Movement-Lore-Ac-N4N0N6K7W)✨
 
 
 # [Occult Nostalgia](https://achie.itch.io/occult-nostalgia) - A Game By It's Cover 2022  
