@@ -33,7 +33,7 @@ A try at making a turn based colony management game inside PICO-8. WIP
 - [Colony Management #2 - Pathfinding, QoL, Depleting Resources](https://ko-fi.com/post/Colony-Management-2--Pathfinding-QoL-Depleting-G2G1JT4TT)
 - [Colony Management #3 - Reworking the backend](https://ko-fi.com/post/Colony-Management-3--Reworking-the-backend-K3K8KNQU7) 
 
-# [Kumatori Panic!] - A Game By It's Cover 2023  
+# [Kumatori Panic!](https://achie.itch.io/kumatori-panic) - A Game By It's Cover 2023  
 A sokoban/bejeweled combo game.  
 
 [Twitter Thread🧵](https://twitter.com/Achie7240/status/1675224388898021376)
