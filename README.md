@@ -39,7 +39,7 @@ A little jam project about an invading force and the bleak reality of ever shrik
 
 [Twitter Thread🧵](https://twitter.com/Achie7240/status/1687178336466817024)  
 
--[Siege Devlog #1 - Lowrezjam 2023, How to Start, Where to go](https://ko-fi.com/post/Siege-Devlog-1--Lowrezjam-2023-How-to-Start-Wh-I2I3O14RM) ✨
+- [Siege Devlog #1 - Lowrezjam 2023, How to Start, Where to go](https://ko-fi.com/post/Siege-Devlog-1--Lowrezjam-2023-How-to-Start-Wh-I2I3O14RM) ✨
 
 
 # [Kumatori Panic!](https://achie.itch.io/kumatori-panic) - A Game By It's Cover 2023  
