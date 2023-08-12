@@ -23,7 +23,9 @@ A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twi
 - [Pico-View January 2023 - Little Eidolons](https://nerdyteachers.com/PICO-8/Pico-View/?issue=1)
 - [Pico-View March 2023 - Calico](https://nerdyteachers.com/PICO-8/Pico-View/?issue=3)
 - [Pico-View April 2023 - Tiny Farm](https://nerdyteachers.com/PICO-8/Pico-View/?issue=4#featuredReview)
-- [Pico-View May 2023 - Air Delivery](https://nerdyteachers.com/PICO-8/Pico-View/?issue=5#featuredReview) 
+- [Pico-View May 2023 - Air Delivery](https://nerdyteachers.com/PICO-8/Pico-View/?issue=5#featuredReview)
+- [Pico-View June 2023 - Porter & 'Til Gods Devour Us](https://nerdyteachers.com/PICO-8/Pico-View/?issue=6#featuredReview2)
+- [Pico-View July 2023 - Kalikan](https://nerdyteachers.com/PICO-8/Pico-View/?issue=7#featuredReview)
 
 # PICO-8 Colony Management Project  
 A try at making a turn based colony management game inside PICO-8. WIP  
