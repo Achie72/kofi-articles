@@ -34,14 +34,20 @@ A try at making a turn based colony management game inside PICO-8. WIP
 
 - [Colony Management Project #1 - The first few days of a project](https://ko-fi.com/post/Colony-Management-Project-1--The-first-few-days-A0A5J2DFS)
 - [Colony Management #2 - Pathfinding, QoL, Depleting Resources](https://ko-fi.com/post/Colony-Management-2--Pathfinding-QoL-Depleting-G2G1JT4TT)
-- [Colony Management #3 - Reworking the backend](https://ko-fi.com/post/Colony-Management-3--Reworking-the-backend-K3K8KNQU7) 
+- [Colony Management #3 - Reworking the backend](https://ko-fi.com/post/Colony-Management-3--Reworking-the-backend-K3K8KNQU7)
+
+# Crea8 #1 - Robots
+My entry for the first Crea8 Jam, dedicated for PICO-8! Theme is Robot!
+
+- [Cre8 #0 - Lowrez failure, new jam, mockups](https://ko-fi.com/post/Cre8-0--Lowrez-failure-new-jam-mockups-H2H2OS9DV)
+- [Crea8 #1 - Autobots roll out!](https://ko-fi.com/post/Crea8-1--Autobots-roll-out-E1E2PECQF) ✨
 
 # Siege of Muldyr - Lowrezjam 2023 - Invasion  
 A little jam project about an invading force and the bleak reality of ever shriking supplies of a castle under siege!  
 
 [Twitter Thread🧵](https://twitter.com/Achie7240/status/1687178336466817024)  
 
-- [Siege Devlog #1 - Lowrezjam 2023, How to Start, Where to go](https://ko-fi.com/post/Siege-Devlog-1--Lowrezjam-2023-How-to-Start-Wh-I2I3O14RM) ✨
+- [Siege Devlog #1 - Lowrezjam 2023, How to Start, Where to go](https://ko-fi.com/post/Siege-Devlog-1--Lowrezjam-2023-How-to-Start-Wh-I2I3O14RM) 
 
 
 # [Kumatori Panic!](https://achie.itch.io/kumatori-panic) - A Game By It's Cover 2023  
