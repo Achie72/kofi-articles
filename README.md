@@ -39,6 +39,8 @@ A try at making a turn based colony management game inside PICO-8. WIP
 # Crea8 #1 - Robots
 My entry for the first Crea8 Jam, dedicated for PICO-8! Theme is Robot!
 
+[Twitter Thread🧵](https://twitter.com/Achie7240/status/1697265869754171708)
+
 - [Cre8 #0 - Lowrez failure, new jam, mockups](https://ko-fi.com/post/Cre8-0--Lowrez-failure-new-jam-mockups-H2H2OS9DV)
 - [Crea8 #1 - Autobots roll out!](https://ko-fi.com/post/Crea8-1--Autobots-roll-out-E1E2PECQF) ✨
 
