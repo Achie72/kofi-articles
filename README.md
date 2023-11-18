@@ -36,6 +36,14 @@ A try at making a turn based colony management game inside PICO-8. WIP
 - [Colony Management #2 - Pathfinding, QoL, Depleting Resources](https://ko-fi.com/post/Colony-Management-2--Pathfinding-QoL-Depleting-G2G1JT4TT)
 - [Colony Management #3 - Reworking the backend](https://ko-fi.com/post/Colony-Management-3--Reworking-the-backend-K3K8KNQU7)
 
+
+# Lina: Suika Hunt - 20 Second Game Jam 2023
+My entry for the 20 Second game jam of 2023! A mashup between Duck Hunt, DDR and Suika Game!
+
+-[Lina: Suika Hunt - 20 Second Game Jam Devlog #1](https://ko-fi.com/post/Lina-Suika-Hunt--20-Second-Game-Jam-Devlog-1-R6R5QUE6K)
+
+
+
 # Crea8 #1 - Robots
 My entry for the first Crea8 Jam, dedicated for PICO-8! Theme is Robot!
 
