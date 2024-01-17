@@ -26,6 +26,11 @@ A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twi
 - [Pico-View May 2023 - Air Delivery](https://nerdyteachers.com/PICO-8/Pico-View/?issue=5#featuredReview)
 - [Pico-View June 2023 - Porter & 'Til Gods Devour Us](https://nerdyteachers.com/PICO-8/Pico-View/?issue=6#featuredReview2)
 - [Pico-View July 2023 - Kalikan](https://nerdyteachers.com/PICO-8/Pico-View/?issue=7#featuredReview)
+- [Pico-View August 2023 - Occult Gunner](https://nerdyteachers.com/PICO-8/Pico-View/?issue=8#featuredReview)
+- [Pico-View September 2023 - Vacay Volley](https://nerdyteachers.com/PICO-8/Pico-View/?issue=9#featuredReview)
+- [Pico-View October 2023 - Re-Dash](https://nerdyteachers.com/PICO-8/Pico-View/?issue=10#featuredReview)
+- [Pico-View November 2023 - Vial Varmit](https://nerdyteachers.com/PICO-8/Pico-View/?issue=11#featuredReview)
+- [Pico-View December 2023 - December Games Rapidfire Reviews](https://nerdyteachers.com/PICO-8/Pico-View/?issue=12#featuredReview)
 
 # PICO-8 Colony Management Project  
 A try at making a turn based colony management game inside PICO-8. WIP  
@@ -37,11 +42,26 @@ A try at making a turn based colony management game inside PICO-8. WIP
 - [Colony Management #3 - Reworking the backend](https://ko-fi.com/post/Colony-Management-3--Reworking-the-backend-K3K8KNQU7)
 
 
-# Lina: Suika Hunt - 20 Second Game Jam 2023
+# One Last Swing - Samurai Game Jam 2024
+
+A Rock-Paper-Scissor like dueling game with timing and stances! Made for the Samurai Game Jam 2024
+
+- [Samurai Game Jam #0 - Concept, Ideas, Inspiration ](https://ko-fi.com/post/Samurai-Game-Jam-0--Concept-Ideas-Inspiration-M4M2TGLYW)
+
+
+# [Crumbling Crypt](https://achie.itch.io/crumbling-crypt) - A minimalist take on a roguelike
+
+[Twitter Thread🧵](https://twitter.com/Achie7240/status/1740474575966613630)
+
+- [Crumbling Crypt #1](https://ko-fi.com/post/Crumbling-Crypt-1--A-minimalist-Roguelike-B0B1SPL7E)
+  
+
+# [Lina: Suika Hunt - 20 Second Game Jam 2023](https://achie.itch.io/lina-suika-hunt)
 My entry for the 20 Second game jam of 2023! A mashup between Duck Hunt, DDR and Suika Game!
 
--[Lina: Suika Hunt - 20 Second Game Jam Devlog #1](https://ko-fi.com/post/Lina-Suika-Hunt--20-Second-Game-Jam-Devlog-1-R6R5QUE6K)
+[Twitter Thread🧵](https://twitter.com/Achie7240/status/1720889150402867456)
 
+-[Lina: Suika Hunt - 20 Second Game Jam Devlog #1](https://ko-fi.com/post/Lina-Suika-Hunt--20-Second-Game-Jam-Devlog-1-R6R5QUE6K)
 
 
 # Crea8 #1 - Robots
