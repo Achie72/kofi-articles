@@ -47,6 +47,7 @@ A try at making a turn based colony management game inside PICO-8. WIP
 A Rock-Paper-Scissor like dueling game with timing and stances! Made for the Samurai Game Jam 2024
 
 - [Samurai Game Jam #0 - Concept, Ideas, Inspiration ](https://ko-fi.com/post/Samurai-Game-Jam-0--Concept-Ideas-Inspiration-M4M2TGLYW)
+- [Samurai Game Jam #1 - Stances, Drawing and Combat](https://ko-fi.com/post/Samurai-Game-Jam-1--Stances-Drawing-and-Combat-J3J3TOCOH)
 
 
 # [Crumbling Crypt](https://achie.itch.io/crumbling-crypt) - A minimalist take on a roguelike
