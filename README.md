@@ -31,6 +31,24 @@ A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twi
 - [Pico-View October 2023 - Re-Dash](https://nerdyteachers.com/PICO-8/Pico-View/?issue=10#featuredReview)
 - [Pico-View November 2023 - Vial Varmit](https://nerdyteachers.com/PICO-8/Pico-View/?issue=11#featuredReview)
 - [Pico-View December 2023 - December Games Rapidfire Reviews](https://nerdyteachers.com/PICO-8/Pico-View/?issue=12#featuredReview)
+- [Pico-View 2024 Q1 Issue - Oblivion Eve](https://nerdyteachers.com/PICO-8/Pico-View/?issue=13#featuredReview)
+
+# Minigame A Month 2024 - April - Farming
+A movement based puzzle game centered around harvesting a field with achieving the highest combo scores possible!
+
+[Mastodon Thread🧵](https://mastodon.gamedev.place/@Achie7240/112288128830139450)  
+[Twitter Thread 🧵](https://twitter.com/Achie7240/status/1778525894140944494)  
+[Youtube Playlist 🎥](https://www.youtube.com/watch?v=xeOixwqZs9A&list=PLPSb7Xjlfm8di9K7MutcLcwTxobzTU4ie)
+
+- [Devlog #0](https://ko-fi.com/post/Minigame-A-Month--April--Farming--Mockup-I2I7WTRPU)
+- [Devlog #1](https://ko-fi.com/Post/Minigame-A-Month--April-1--Farming-U6U8WVFXP)
+
+
+# PICO-8 Strawberry Jam - 4 Colors and Holidays
+An attempt at an educational stream series where I explain and live code a whole game for a gamejam.
+
+[Youtube Playlist 🎥](https://www.youtube.com/watch?v=1cb4uQv1Has&list=PLPSb7Xjlfm8e_PI_EIupFUcfVT2g2j2-N)
+
 
 # PICO-8 Colony Management Project  
 A try at making a turn based colony management game inside PICO-8. WIP  
