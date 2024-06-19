@@ -33,6 +33,17 @@ A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twi
 - [Pico-View December 2023 - December Games Rapidfire Reviews](https://nerdyteachers.com/PICO-8/Pico-View/?issue=12#featuredReview)
 - [Pico-View 2024 Q1 Issue - Oblivion Eve](https://nerdyteachers.com/PICO-8/Pico-View/?issue=13#featuredReview)
 
+# Pursuing Pixels James Jam Game Gam #3 - Parallel  
+A sliding movement puzzle game where you control multiple restless forest spirits at once.  
+
+[Mastodon Thread🧵](https://mastodon.gamedev.place/@Achie7240/112633876498102756)  
+[Twitter Thread 🧵](https://x.com/Achie7240/status/1802741639095484916)  
+[Youtube Playlist 🎥](https://www.youtube.com/watch?v=Do6TrKuGK8s&list=PLPSb7Xjlfm8d9n6nZRMbZOWZdxmyA9i5R)
+
+- [PPJJGG #1 - The basics of the basics](https://ko-fi.com/post/PPJJGG-1--The-basics-of-the-basics-C0C4ZGCAL)
+- [PPJJGG #2 - The Core in place](https://ko-fi.com/post/PPJJGG-2--The-Core-in-place-Q5Q5ZJ33D)
+
+
 # Minigame A Month 2024 - April - Farming
 A movement based puzzle game centered around harvesting a field with achieving the highest combo scores possible!
 
