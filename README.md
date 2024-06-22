@@ -40,8 +40,9 @@ A sliding movement puzzle game where you control multiple restless forest spirit
 [Twitter Thread 🧵](https://x.com/Achie7240/status/1802741639095484916)  
 [Youtube Playlist 🎥](https://www.youtube.com/watch?v=Do6TrKuGK8s&list=PLPSb7Xjlfm8d9n6nZRMbZOWZdxmyA9i5R)
 
-- [PPJJGG #1 - The basics of the basics](https://ko-fi.com/post/PPJJGG-1--The-basics-of-the-basics-C0C4ZGCAL)
-- [PPJJGG #2 - The Core in place](https://ko-fi.com/post/PPJJGG-2--The-Core-in-place-Q5Q5ZJ33D)
+- [PPJJGG #1 - The basics of the basics](https://ko-fi.com/post/PPJJGG-1--The-basics-of-the-basics-C0C4ZGCAL)  
+- [PPJJGG #2 - The Core in place](https://ko-fi.com/post/PPJJGG-2--The-Core-in-place-Q5Q5ZJ33D)  
+- [PPJJGG #3 - Loading Maps from String](https://ko-fi.com/post/PPJJGG-3--Loading-Maps-from-STRINGS-Q5Q2ZN4H5)  
 
 
 # Minigame A Month 2024 - April - Farming
