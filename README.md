@@ -32,6 +32,7 @@ A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twi
 - [Pico-View November 2023 - Vial Varmit](https://nerdyteachers.com/PICO-8/Pico-View/?issue=11#featuredReview)
 - [Pico-View December 2023 - December Games Rapidfire Reviews](https://nerdyteachers.com/PICO-8/Pico-View/?issue=12#featuredReview)
 - [Pico-View 2024 Q1 Issue - Oblivion Eve](https://nerdyteachers.com/PICO-8/Pico-View/?issue=13#featuredReview)
+- [Pico-View 2024 Q2-Q3 - Oops Airliens](https://nerdyteachers.com/PICO-8/Pico-View/?issue=14#featuredReview)
 
 # Pursuing Pixels James Jam Game Gam #3 - Parallel  
 A sliding movement puzzle game where you control multiple restless forest spirits at once.  
