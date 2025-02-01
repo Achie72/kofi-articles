@@ -4,8 +4,6 @@ A catalogue of all my articles on from my Ko-fi Page!
 # PicoShorts
 A little bite sized review series about cool PICO-8 games I stumbled upon.  
 
-[Twitter Thread🧵](https://twitter.com/Achie7240/status/1665425528319246338)
-
 - [PicoShorts #1 - Farm Panic, Egypt](https://ko-fi.com/post/PicoShorts-1-E1E29R7LV) 
 - [PicoShorts #2 - Crowded Dungeon Crawler, Little Architect](https://ko-fi.com/post/Eng-PicoShorts-2--Crowded-Dungeon-Crawler-Lit-W7W2ADJDB)
 - [PicoShorts #3 - Archery Princess, Tower of Archeos](https://ko-fi.com/post/Eng-PicoShorts-3--Archery-Princess-I3I7AIEZA)
@@ -34,11 +32,15 @@ A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twi
 - [Pico-View 2024 Q1 Issue - Oblivion Eve](https://nerdyteachers.com/PICO-8/Pico-View/?issue=13#featuredReview)
 - [Pico-View 2024 Q2-Q3 - Oops Airliens](https://nerdyteachers.com/PICO-8/Pico-View/?issue=14#featuredReview)
 
+# Dev Diary "monthly" update series!
+A self imposed series that aims at getting some kind of stable schedule into my dev life.
+
+- [2025 - January](https://ko-fi.com/post/Dev-Diary--January--Catching-up-mostly-J3J119W9ZE)
+
 # Pursuing Pixels James Jam Game Gam #3 - Parallel  
 A sliding movement puzzle game where you control multiple restless forest spirits at once.  
 
-[Mastodon Thread🧵](https://mastodon.gamedev.place/@Achie7240/112633876498102756)  
-[Twitter Thread 🧵](https://x.com/Achie7240/status/1802741639095484916)  
+[Mastodon Thread🧵](https://mastodon.gamedev.place/@Achie7240/112633876498102756)   
 [Youtube Playlist 🎥](https://www.youtube.com/watch?v=Do6TrKuGK8s&list=PLPSb7Xjlfm8d9n6nZRMbZOWZdxmyA9i5R)
 
 - [PPJJGG #1 - The basics of the basics](https://ko-fi.com/post/PPJJGG-1--The-basics-of-the-basics-C0C4ZGCAL)  
@@ -49,8 +51,7 @@ A sliding movement puzzle game where you control multiple restless forest spirit
 # Minigame A Month 2024 - April - Farming
 A movement based puzzle game centered around harvesting a field with achieving the highest combo scores possible!
 
-[Mastodon Thread🧵](https://mastodon.gamedev.place/@Achie7240/112288128830139450)  
-[Twitter Thread 🧵](https://twitter.com/Achie7240/status/1778525894140944494)  
+[Mastodon Thread🧵](https://mastodon.gamedev.place/@Achie7240/112288128830139450)   
 [Youtube Playlist 🎥](https://www.youtube.com/watch?v=xeOixwqZs9A&list=PLPSb7Xjlfm8di9K7MutcLcwTxobzTU4ie)
 
 - [Devlog #0](https://ko-fi.com/post/Minigame-A-Month--April--Farming--Mockup-I2I7WTRPU)
@@ -66,7 +67,6 @@ An attempt at an educational stream series where I explain and live code a whole
 # PICO-8 Colony Management Project  
 A try at making a turn based colony management game inside PICO-8. WIP  
 
-[Twitter Thread🧵](https://twitter.com/Achie7240/status/1648051091781697537)
 
 - [Colony Management Project #1 - The first few days of a project](https://ko-fi.com/post/Colony-Management-Project-1--The-first-few-days-A0A5J2DFS)
 - [Colony Management #2 - Pathfinding, QoL, Depleting Resources](https://ko-fi.com/post/Colony-Management-2--Pathfinding-QoL-Depleting-G2G1JT4TT)
@@ -83,7 +83,6 @@ A Rock-Paper-Scissor like dueling game with timing and stances! Made for the Sam
 
 # [Crumbling Crypt](https://achie.itch.io/crumbling-crypt) - A minimalist take on a roguelike
 
-[Twitter Thread🧵](https://twitter.com/Achie7240/status/1740474575966613630)
 
 - [Crumbling Crypt #1](https://ko-fi.com/post/Crumbling-Crypt-1--A-minimalist-Roguelike-B0B1SPL7E)
   
@@ -91,7 +90,6 @@ A Rock-Paper-Scissor like dueling game with timing and stances! Made for the Sam
 # [Lina: Suika Hunt - 20 Second Game Jam 2023](https://achie.itch.io/lina-suika-hunt)
 My entry for the 20 Second game jam of 2023! A mashup between Duck Hunt, DDR and Suika Game!
 
-[Twitter Thread🧵](https://twitter.com/Achie7240/status/1720889150402867456)
 
 -[Lina: Suika Hunt - 20 Second Game Jam Devlog #1](https://ko-fi.com/post/Lina-Suika-Hunt--20-Second-Game-Jam-Devlog-1-R6R5QUE6K)
 
@@ -99,7 +97,6 @@ My entry for the 20 Second game jam of 2023! A mashup between Duck Hunt, DDR and
 # Crea8 #1 - Robots
 My entry for the first Crea8 Jam, dedicated for PICO-8! Theme is Robot!
 
-[Twitter Thread🧵](https://twitter.com/Achie7240/status/1697265869754171708)
 
 - [Cre8 #0 - Lowrez failure, new jam, mockups](https://ko-fi.com/post/Cre8-0--Lowrez-failure-new-jam-mockups-H2H2OS9DV)
 - [Crea8 #1 - Autobots roll out!](https://ko-fi.com/post/Crea8-1--Autobots-roll-out-E1E2PECQF) ✨
@@ -107,15 +104,12 @@ My entry for the first Crea8 Jam, dedicated for PICO-8! Theme is Robot!
 # Siege of Muldyr - Lowrezjam 2023 - Invasion  
 A little jam project about an invading force and the bleak reality of ever shriking supplies of a castle under siege!  
 
-[Twitter Thread🧵](https://twitter.com/Achie7240/status/1687178336466817024)  
-
 - [Siege Devlog #1 - Lowrezjam 2023, How to Start, Where to go](https://ko-fi.com/post/Siege-Devlog-1--Lowrezjam-2023-How-to-Start-Wh-I2I3O14RM) 
 
 
 # [Kumatori Panic!](https://achie.itch.io/kumatori-panic) - A Game By It's Cover 2023  
 A sokoban/bejeweled combo game.  
 
-[Twitter Thread🧵](https://twitter.com/Achie7240/status/1675224388898021376)
 
 - [A Game By It's Cover #1 - Kumatori Panic! Proof-of-Concept done!](https://ko-fi.com/post/A-Game-By-Its-Cover-1--Kumatori-Panic-Proof-of-J3J6MST5M) 
 - [Kumatori Panic! Devlog #2 - Menu system, gameloop, difficulty](https://ko-fi.com/Post/AGBIC--Kumatori-Panic-Devlog-2--Menu-system-g-E1E5MTTV5)
@@ -126,7 +120,6 @@ A sokoban/bejeweled combo game.
 # [Occult Nostalgia](https://achie.itch.io/occult-nostalgia) - A Game By It's Cover 2022  
 A turn based dungeon crawler rpg with a creepy overtone. WIP  
 
-[Twitter Thread🧵](https://twitter.com/Achie7240/status/1586100113956425728)  
 
 - [A Game By It's Cover #1 - Occult nostalgia meets an old project](https://ko-fi.com/post/A-Game-By-Its-Cover-1--Occult-nostalgia-meets-a-C0C3FZFLM)
 - [A Game By It's Cover #2 - Couch Co-op, Combat Mockup and Rendering](https://ko-fi.com/post/A-Game-By-Its-Cover-2--Couch-Co-op-Combat-Mock-E1E8G6HWY)
@@ -141,7 +134,6 @@ A platformer trying to invoke retro NES/SEGA era games.
 
 # MossyMonth 2023 - Creative Jam with theme: Forest!
 
-[Twitter Thread🧵](https://twitter.com/Achie7240/status/1668344676267487232)
 
 - [#1 - The Beginning](https://ko-fi.com/post/MossyMonth-2023-1--The-Beginnings-C0C5M7HZ3)
 - [#2 - Movement Refactor, Vector Plates, Lilypads, Map](https://ko-fi.com/post/Mossy-Month-2--Movement-Refactor-Vector-Plates-E1E2MLT9O)
@@ -153,7 +145,6 @@ Help Lina to catch the finest fishes for her hungry cat! [Link to the game!](htt
 # [Rogala](https://achie.itch.io/rogala) - Devtober2022 Jam
 A Devlog series about my Löve Shmup entry for the Devtober2022 jam. [Link to the game!](https://achie.itch.io/rogala)
 
-[Twitter Thread🧵](https://twitter.com/Achie7240/status/1577053869481525248)  
 
 - [Devtober2022 #1 - HacktoberFest, Devtober 2022 and a new game?](https://ko-fi.com/post/Eng-HacktoberFest-Devtober-2022-and-a-new-game-X8X8FJPDN)
 - [Devtober2022 #2 - Graphical Enhancements](https://ko-fi.com/Post/Eng-Devtober2020-2--Graphical-Enhancements-X8X3FKCIB)
