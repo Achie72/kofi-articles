@@ -13,7 +13,8 @@ A little bite sized review series about cool PICO-8 games I stumbled upon.
 - [PicoShorts #7 - Astroapocalypse,I Just Wanna Land,Super Poulet Poulet](https://ko-fi.com/post/PicoShorts-7--AstroapocalypseI-Just-Wanna-Land-E1E8HUNUA)
 - [PicoShorts #8 - Bearrl, Charge!, P8C-BUN](https://ko-fi.com/post/PicoShorts-8--Bearrl-Charge-P8C-BUN-H2H8K6O60)
 - [PicoShorts #9 - Downward, Grow Dungeon, Neon Saucer, Slipways](https://ko-fi.com/post/PicoShorts-9--Downward-Grow-Dungeon-Neon-Sauce-O5O8L3CHW)
-- [PicoShorts #10 - Stuck In The Sewers, Ice Breakers, Rebel Commander](https://ko-fi.com/post/PicoShorts-10--Stuck-In-The-Sewers-Ice-Breakers-P5P4NVRHQ) 
+- [PicoShorts #10 - Stuck In The Sewers, Ice Breakers, Rebel Commander](https://ko-fi.com/post/PicoShorts-10--Stuck-In-The-Sewers-Ice-Breakers-P5P4NVRHQ)
+- [PicoShorts #11 - Puzzle game bonanza - Chemps, Backdrop, Puzzles of the Paladin](https://ko-fi.com/Post/PicoShorts-12--Puzzle-game-bonanza-P5P71BIVWA)
 
 # Pico-View contributions
 A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twitter.com/MarinaMakes) and [Nerdy Teachers](https://twitter.com/NerdyTeachers)!
@@ -36,6 +37,7 @@ A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twi
 A self imposed series that aims at getting some kind of stable schedule into my dev life.
 
 - [2025 - January](https://ko-fi.com/post/Dev-Diary--January--Catching-up-mostly-J3J119W9ZE)
+- [2025 - February](https://ko-fi.com/post/Dev-Diary--February--Crypt-and-future-projects-T6T21BC7YX)
 
 # Pursuing Pixels James Jam Game Gam #3 - Parallel  
 A sliding movement puzzle game where you control multiple restless forest spirits at once.  
