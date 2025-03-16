@@ -160,6 +160,7 @@ A Devlog series about my Löve Shmup entry for the Devtober2022 jam. [Link to th
 - [Rogala #10 - Post jam feedbacks and further plans](https://ko-fi.com/post/Rogala-10--Recievment-and-further-plans-Q5Q8GRVMM)
 
 # PICO-8 "Tutorials"
+- [How to center or outline any text](https://gist.github.com/Achie72/37043397d1057d8fab49b10fff0f9865)
 - [How to make particles](https://gist.github.com/Achie72/ab7d86dc57e7a6d51fd56d0dcb5f2041)
 - [How to load maps from strings](https://gist.github.com/Achie72/1b309c34c6441296d016107c1f113093)
 - [How to spawn things in game (bullets, coins, whatever)](https://gist.github.com/Achie72/c4770b9e9beda1e312103ae7792b5c8b)
