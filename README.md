@@ -159,7 +159,11 @@ A Devlog series about my Löve Shmup entry for the Devtober2022 jam. [Link to th
 - [Devtober2022 #9 - Rogala is out! Catchup and Post-Mortem.](https://ko-fi.com/Post/Devtober-9--Rogala-is-out-Catchup-and-Post-Mort-K3K3G1LU9)
 - [Rogala #10 - Post jam feedbacks and further plans](https://ko-fi.com/post/Rogala-10--Recievment-and-further-plans-Q5Q8GRVMM)
 
-# Caffeine Reviews
-Generic game or other media reviews outside of my ususal fantasy console sphere!
-
-- [Caffeine Reviews - Blood Ticket](https://ko-fi.com/post/Caffeine-Reviews--Blood-Ticket-R6R8FW6HR) 
+# PICO-8 "Tutorials"
+- [How to make particles](https://gist.github.com/Achie72/ab7d86dc57e7a6d51fd56d0dcb5f2041)
+- [How to load maps from strings](https://gist.github.com/Achie72/1b309c34c6441296d016107c1f113093)
+- [How to spawn things in game (bullets, coins, whatever)](https://gist.github.com/Achie72/c4770b9e9beda1e312103ae7792b5c8b)
+- [How to spawn enemies in waves (for Tower defense, or anything](https://gist.github.com/Achie72/0751582802f0d9dfa06271dc040d7912)
+- [How to have Multiplayer](https://gist.github.com/Achie72/8ac788de67f946d5f2d88fdb580af103)
+- [How to switch scenes with a state machine](https://gist.github.com/Achie72/875a98d352c7c2da7fd0c548ce5322bc)
+- [Selector library, when you need menus, items whatever and need to point at them](https://gist.github.com/Achie72/8b0ca61d5dd0525560c2db9ecaacd735)
