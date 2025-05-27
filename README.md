@@ -33,11 +33,23 @@ A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twi
 - [Pico-View 2024 Q1 Issue - Oblivion Eve](https://nerdyteachers.com/PICO-8/Pico-View/?issue=13#featuredReview)
 - [Pico-View 2024 Q2-Q3 - Oops Airliens](https://nerdyteachers.com/PICO-8/Pico-View/?issue=14#featuredReview)
 
+# PICO-8 "Tutorials"
+- [How to center or outline any text](https://gist.github.com/Achie72/37043397d1057d8fab49b10fff0f9865)
+- [How to make particles](https://gist.github.com/Achie72/ab7d86dc57e7a6d51fd56d0dcb5f2041)
+- [How to load maps from strings](https://gist.github.com/Achie72/1b309c34c6441296d016107c1f113093)
+- [How to spawn things in game (bullets, coins, whatever)](https://gist.github.com/Achie72/c4770b9e9beda1e312103ae7792b5c8b)
+- [How to spawn enemies in waves (for Tower defense, or anything](https://gist.github.com/Achie72/0751582802f0d9dfa06271dc040d7912)
+- [How to have local multiplayer](https://gist.github.com/Achie72/8ac788de67f946d5f2d88fdb580af103)
+- [How to switch scenes with a state machine](https://gist.github.com/Achie72/875a98d352c7c2da7fd0c548ce5322bc)
+- [Selector library, when you need menus, items whatever and need to point at them](https://gist.github.com/Achie72/8b0ca61d5dd0525560c2db9ecaacd735)
+  
+
 # Dev Diary "monthly" update series!
 A self imposed series that aims at getting some kind of stable schedule into my dev life.
 
 - [2025 - January](https://ko-fi.com/post/Dev-Diary--January--Catching-up-mostly-J3J119W9ZE)
 - [2025 - February](https://ko-fi.com/post/Dev-Diary--February--Crypt-and-future-projects-T6T21BC7YX)
+- [2025 - March - April](https://ko-fi.com/post/Dev-Diary--March-and-April--Plans-and-Playdate-N4N41F45VB)
 
 # Pursuing Pixels James Jam Game Gam #3 - Parallel  
 A sliding movement puzzle game where you control multiple restless forest spirits at once.  
@@ -159,12 +171,3 @@ A Devlog series about my Löve Shmup entry for the Devtober2022 jam. [Link to th
 - [Devtober2022 #9 - Rogala is out! Catchup and Post-Mortem.](https://ko-fi.com/Post/Devtober-9--Rogala-is-out-Catchup-and-Post-Mort-K3K3G1LU9)
 - [Rogala #10 - Post jam feedbacks and further plans](https://ko-fi.com/post/Rogala-10--Recievment-and-further-plans-Q5Q8GRVMM)
 
-# PICO-8 "Tutorials"
-- [How to center or outline any text](https://gist.github.com/Achie72/37043397d1057d8fab49b10fff0f9865)
-- [How to make particles](https://gist.github.com/Achie72/ab7d86dc57e7a6d51fd56d0dcb5f2041)
-- [How to load maps from strings](https://gist.github.com/Achie72/1b309c34c6441296d016107c1f113093)
-- [How to spawn things in game (bullets, coins, whatever)](https://gist.github.com/Achie72/c4770b9e9beda1e312103ae7792b5c8b)
-- [How to spawn enemies in waves (for Tower defense, or anything](https://gist.github.com/Achie72/0751582802f0d9dfa06271dc040d7912)
-- [How to have local multiplayer](https://gist.github.com/Achie72/8ac788de67f946d5f2d88fdb580af103)
-- [How to switch scenes with a state machine](https://gist.github.com/Achie72/875a98d352c7c2da7fd0c548ce5322bc)
-- [Selector library, when you need menus, items whatever and need to point at them](https://gist.github.com/Achie72/8b0ca61d5dd0525560c2db9ecaacd735)
