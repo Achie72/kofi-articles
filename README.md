@@ -55,9 +55,9 @@ A self imposed series that aims at getting some kind of stable schedule into my 
 # Pursuing Pixels James Jam Game Gam #4 - Positioning  
 A daily universe drawing, tile laying game where you are trying to score as much as possible!
 
-[Bluesky Thread🧵](https://bsky.app/profile/achiegamedev.bsky.social/post/3lqb4bdl7lc2a)
+[Bluesky Thread🧵](https://bsky.app/profile/achiegamedev.bsky.social/post/3lqb4bdl7lc2a)  
 [Mastodon Thread🧵](https://mastodon.gamedev.place/@Achie7240/114587497045391292)   
-Youtube Series Soon TM 🎥
+[Youtube Series Soon TM 🎥](https://www.youtube.com/watch?v=QXLWMKmNIh4)
 
 - [Daily-Verse #1 | PPJJGG #4 - Positioning](https://ko-fi.com/Post/Daily-Verse-PPJJGG-4--Positioning-S6S81FNZS2)
 - [Daily-Verse #2 | PPJJGG #4 - Gridwork and leftover items](https://ko-fi.com/Post/Daily-Verse-2-PPJJGG-4--Gridwork-and-leftover-P5P71FR30J)
