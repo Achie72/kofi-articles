@@ -51,6 +51,17 @@ A self imposed series that aims at getting some kind of stable schedule into my 
 - [2025 - February](https://ko-fi.com/post/Dev-Diary--February--Crypt-and-future-projects-T6T21BC7YX)
 - [2025 - March - April](https://ko-fi.com/post/Dev-Diary--March-and-April--Plans-and-Playdate-N4N41F45VB)
 
+
+# Pursuing Pixels James Jam Game Gam #4 - Positioning  
+A daily universe drawing, tile laying game where you are trying to score as much as possible!
+
+[Bluesky Thread🧵](https://bsky.app/profile/achiegamedev.bsky.social/post/3lqb4bdl7lc2a)
+[Mastodon Thread🧵](https://mastodon.gamedev.place/@Achie7240/114587497045391292)   
+Youtube Series Soon TM 🎥
+
+- [Daily-Verse #1 | PPJJGG #4 - Positioning](https://ko-fi.com/Post/Daily-Verse-PPJJGG-4--Positioning-S6S81FNZS2)
+- [Daily-Verse #2 | PPJJGG #4 - Gridwork and leftover items](https://ko-fi.com/Post/Daily-Verse-2-PPJJGG-4--Gridwork-and-leftover-P5P71FR30J)
+
 # Pursuing Pixels James Jam Game Gam #3 - Parallel  
 A sliding movement puzzle game where you control multiple restless forest spirits at once.  
 
