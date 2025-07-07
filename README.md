@@ -47,6 +47,8 @@ A community made monthy zine for PICO-8 enthusiast by [Marina Makes](https://twi
 # Dev Diary "monthly" update series!
 A self imposed series that aims at getting some kind of stable schedule into my dev life.
 
+[Bluesky Thread](https://bsky.app/profile/achiegamedev.bsky.social/post/3ljdj4x5rjk2b)
+
 - [2025 - January](https://ko-fi.com/post/Dev-Diary--January--Catching-up-mostly-J3J119W9ZE)
 - [2025 - February](https://ko-fi.com/post/Dev-Diary--February--Crypt-and-future-projects-T6T21BC7YX)
 - [2025 - March - April](https://ko-fi.com/post/Dev-Diary--March-and-April--Plans-and-Playdate-N4N41F45VB)
